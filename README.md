@@ -1,2 +1,2 @@
 # movie_recommendation_system
-A collection of practical machine learning projects using supervised and unsupervised algorithms. Includes data preprocessing, model training, evaluation, and visualization. Great for learning, practicing ML skills, and building a portfolio. Contributions welcome!
+A content-based movie recommendation system using Python. Recommends movies based on user input and similarity metrics like cosine similarity. Includes data preprocessing, feature extraction, and interactive predictions. Easy to use and extend.
